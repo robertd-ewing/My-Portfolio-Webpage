@@ -1,6 +1,6 @@
 h1 {
     color: #191970;
-    font-family: 'Harlow Solid Italic', magneto, 'Sans Serif';
+    font-family: 'Harlow Solid Italic', Magneto, 'Sans Serif';
     font-size: 48px;
     text-align: center;
     background-color: #DCDCDC;
@@ -8,18 +8,18 @@ h1 {
     
 }
 p {
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: Georgia, 'Times New Roman', Times, Serif;
     font-size: 32px;
     color: darkslategrey;
 }
 h2 {
-    font-family: cambria, georgia, serif;
+    font-family: Cambria, Georgia, Serif;
     color: black;
     font-size: 24px;
    
 }
 h3 {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Times New Roman', Times, Serif;
     color: dodgerblue;
     font-size: 16px;
 }
