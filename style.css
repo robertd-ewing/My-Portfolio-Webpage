@@ -3,10 +3,12 @@ h1 {
     font-family: 'Harlow Solid Italic', 'Magneto', 'Sans Serif';
     font-size: 48px;
     text-align: center;
+    padding: 3px;
+
 }
 p {
     font-family: Georgia, 'Times New Roman', Times, Serif;
-    font-size: 28px;
+    font-size: 20px;
     color: darkslategrey;
 }
 h2 {
@@ -18,5 +20,5 @@ h2 {
 h3 {
     font-family: 'Times New Roman', Times, Serif;
     color: dodgerblue;
-    font-size: 16px;
+    font-size: 24px;
 }
