@@ -1,6 +1,6 @@
 h1 {
     color: #191970;
-    font-family: 'Harlow Solid Italic', Magneto, 'Sans Serif';
+    font-family: 'Harlow Solid Italic', 'Magneto', 'Sans Serif';
     font-size: 48px;
     text-align: center;
 }
@@ -10,7 +10,7 @@ p {
     color: darkslategrey;
 }
 h2 {
-    font-family: Cambria, Georgia, Serif;
+    font-family: 'Cambria', Georgia, Serif;
     color: black;
     font-size: 24px;
    
