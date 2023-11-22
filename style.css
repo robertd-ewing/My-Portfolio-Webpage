@@ -1,3 +1,6 @@
+body {
+    background-color: bisque;
+}
 h1 {
     color: #191970;
     font-family: 'Harlow Solid Italic', 'Magneto', 'Sans Serif';
@@ -22,3 +25,7 @@ h3 {
     color: dodgerblue;
     font-size: 24px;
 }
+a:link {color:steelblue}
+a:visited {color:firebrick}
+a:hover {color:darkgreen}
+a:active {color:plum}
